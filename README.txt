@@ -1,4 +1,4 @@
-This repository includes four files, scheduler.cpp, lab1-sched-fall2018.pdf, Makefile and README.txt.
+This repository includes four files, scheduler.cpp, lab2-sched-fall2018.pdf, Makefile and README.txt.
 The pdf is the requirements for the lab from the instructer of the course. 
 scheduler.cpp is the main file which contains the source code satisfying the demands in the pdf.
 Makefile organizes code compilation for the Linux system. 
